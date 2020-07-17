@@ -1,0 +1,5 @@
+﻿.pytest_cache/
+.vscode/
+statsapi/__init__.py
+tests/__init__.py
+**/__pycache__/
